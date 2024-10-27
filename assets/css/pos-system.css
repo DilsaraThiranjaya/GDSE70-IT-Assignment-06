@@ -50,9 +50,9 @@
   background-color: rgba(70, 85, 129, 0.288);
 }
 
-.search-customer input,
-.search-customer select,
-.search-customer button {
+.search input,
+.search select,
+.search button {
   font-size: 0.9rem;
 }
 
