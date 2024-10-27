@@ -5,10 +5,6 @@
   width: 35px;
 }
 
-.navbar {
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.671);
-}
-
 .navbar-brand {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.4rem !important;
@@ -26,7 +22,9 @@
 }
 
 .nav-item a {
-  font-size: 0.8rem;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1rem;
+  border-color:rgba(0, 128, 0, 0.315) !important;
 }
 
 .active {
