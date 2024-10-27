@@ -1,0 +1,74 @@
+/* ------------------ Header ------------------ */
+
+.header-logo {
+  height: 30px;
+  width: 35px;
+}
+
+.navbar {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.671);
+}
+
+.navbar-brand {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4rem !important;
+  color: rgb(24, 97, 24) !important;
+}
+
+.navbar button {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8rem !important;
+}
+
+.nav-item a:hover,
+.navbar button:hover {
+  text-decoration: underline;
+}
+
+.nav-item a {
+  font-size: 0.8rem;
+}
+
+.active {
+  cursor: default;
+}
+
+.active:hover {
+  text-decoration: none !important;
+}
+
+/* ------------------ Main ------------------ */
+
+.label {
+  background-color: rgba(0, 0, 0, 0.137);
+}
+
+.label h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.4rem;
+}
+
+.content {
+  background-color: rgba(70, 85, 129, 0.288);
+}
+
+.search-customer input,
+.search-customer select,
+.search-customer button {
+  font-size: 0.9rem;
+}
+
+.button-set button {
+  font-size: 0.9rem;
+  width: 100px;
+}
+
+.table-responsive th {
+  font-size: 0.9rem;
+}
+
+.table-responsive td {
+  font-size: 0.8rem;
+}
+
+
